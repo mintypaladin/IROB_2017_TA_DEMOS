@@ -30,8 +30,7 @@ if rotB <= 170 %if less than 170 degrees
 elseif rotB>=170 %if more than 170 degrees
     clc
     disp({'Angle',rotB;'Status','ON';'Speed',(0.5*rotB-90)})
-    writeStatusLig
-    ht(TA,'green')
+    writeStatusLight(TA,'green')
     motC.Speed = 0.5*rotB-85; %sets speed to scale with rotations
         start(motC) %start command for motor 
 
