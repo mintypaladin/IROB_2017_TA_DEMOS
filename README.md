@@ -1,6 +1,8 @@
 # IROB_2017_TA_DEMOS
 JHU Center for Talented Youth IROB-A/IROB (Introduction to Robotics) MATLAB Examples
 
+LOS (Los Angeles Site) 
+
 Hardware Rquired
 1. Lego Mindstorms EV3 Brick (1)
 2. EV3 or NXT Motors (s) 
@@ -17,4 +19,5 @@ lecture during class and my students recieved it well. The comments provided sho
 assembly self explanitory. 
 
 More information about CTY can be found at: https://cty.jhu.edu/
+
 IROB Course: http://cty.jhu.edu/summer/grades2-6/catalog/math.html#irob
