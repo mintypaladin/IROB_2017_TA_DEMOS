@@ -5,7 +5,7 @@ LOS (Los Angeles Site)
 
 Hardware Rquired
 1. Lego Mindstorms EV3 Brick (1)
-2. EV3 or NXT Motors (s) 
+2. EV3 or NXT Motors (2) 
 3. EV3 or NXT Touch Sensor (1)
 
 (I used 2 EV3 Medium motors as the adjustment knob and to rotate the fan. Any combination 
