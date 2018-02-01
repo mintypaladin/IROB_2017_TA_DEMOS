@@ -21,3 +21,21 @@ assembly self explanitory.
 More information about CTY can be found at: https://cty.jhu.edu/
 
 IROB Course: http://cty.jhu.edu/summer/grades2-6/catalog/math.html#irob
+
+
+(1/31/18)
+I've added a version of this device using Arduino hardware instead of Lego Mindstorms. 
+
+
+Hardware Requred
+
+1. Arduino (I used an Uno)
+2. Potentiometer
+3. Push Button
+4. Any fan/motor that can run within Arudino's electrical ouput. 
+
+As with the Mindstorms version, the code should make assembly self explanatory, but the 
+fan needs to be plugged in a PWM output (3, 5, 6, 9, 10 , 11) Any functioning touch button 
+or potentioemeter should do (although you may need to adjust the ratio values), and I used 
+an old desktop computer fan as the output. When choosing a fan/motor, keep in mind that the
+max output voltage is around 5V. 
